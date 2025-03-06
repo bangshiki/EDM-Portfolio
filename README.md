@@ -12,5 +12,5 @@ Valerie L. Nocete is a video editor, first year college student currently pursui
 
 
 ## My Projects
-- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel]()
+- Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/bangshiki/EDM-Portfolio/blob/e4fa5a5dfbcac16b7502bd94579fcd80f00d89d4/Midterm%20Task%201/README.md)
 - Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor]()
