@@ -8,7 +8,7 @@ The task is to clean and transform the Uncleaned_DS_Jobs.csv dataset from kaggle
 The cleaning involves fixing salary data, classifying job roles, handling inconsistent locations, cleaning company details, and preparing the data to group by role type, company size, and state to get salary insights.
 
 ## Screenshot of the dataset before cleaning and transformation:
-<img src="images/before.png" alt="Alt Text" width="600" height="300">
+<img src="images/before.png" alt="Alt Text" width="1000" height="500">
 
 # Steps performed in data cleaning and transformation
 ## Data cleaning:
@@ -39,22 +39,22 @@ The cleaning involves fixing salary data, classifying job roles, handling incons
 
 ## Cleaned DS Jobs: 
 
-<img src="images/data cleaned.png" alt="Alt Text" width="1000" height="500">
+<img src="images/cleaned.png" alt="Alt Text" width="1000" height="500">
 
 ## Sal By Role Type dup:
 
-<img src="images/Sal Role by Type.png" alt="Alt Text" width="1100" height="400">
+<img src="images/Sal By Role Type Dup.png" alt="Alt Text" width="1300" height="400">
 
 ## Sal By Role Size ref:
 
-<img src="images/Sal Role by Size.png" alt="Alt Text" width="1100" height="400">
+<img src="images/Sal By Role Size ref.png" alt="Alt Text" width="1300" height="400">
 
 ## Sal By State ref:
 
-<img src="images/Sal by State.png" alt="Alt Text" width="1100" height="700">
+<img src="images/Sal By State ref.png" alt="Alt Text" width="1300" height="600">
 
 
 ## Query Dependencies:
-<img src="images/Query Dependencies.png" alt="Alt Text" width="1100" height="600">
+<img src="images/query dependencies.png" alt="Alt Text" width="1100" height="800">
 
  
