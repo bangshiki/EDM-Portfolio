@@ -34,6 +34,9 @@ The cleaning involves fixing salary data, classifying job roles, handling incons
 - Imported a State Mapping file to map state abbreviations to full state names and merged it with the dataset.
 - Created a reference as Sal By State ref, selected State Full Name, Min Sal, and Max Sal, multiplied salaries by 1000, and grouped by State Full Name to get average salaries.
 - Checked query dependencies to confirm correct relationships.
+ 
+# Excel Ouput:
+Midterm Lab Task 2: [Data Cleaning and Transformation using Power Query Editor](https://github.com/bangshiki/EDM-Portfolio/tree/2956ee43492e16e8da44b0c5b6ad73427849b31f/Midterm%20Task%202/Excel/Midterm%20Task%202_done)
 
 # Final output (screenshot of the final queries):
 
@@ -57,4 +60,3 @@ The cleaning involves fixing salary data, classifying job roles, handling incons
 ## Query Dependencies:
 <img src="images/query dependencies.png" alt="Alt Text" width="1100" height="800">
 
- 
