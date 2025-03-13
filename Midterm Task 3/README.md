@@ -37,4 +37,4 @@ Apply custom design and color settings to make it visually appealing and present
 Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/bangshiki/EDM-Portfolio/blob/0f1d7801f86916fff7b9faf17f5cccba65772017/Midterm%20Task%203/Excel/Midterm%20Task%203_done.xlsx)
 
 # Final output (screenshot of the final Dashboard):
-<img src="images/DASHBOARD.png" alt="Alt Text" width="1000" height="500">
+<img src="images/DASHBOARD.png" alt="Alt Text" width="1000" height="700">
