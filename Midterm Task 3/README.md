@@ -3,38 +3,32 @@
 ## Task Description:
 Create a Pivot Table-based dashboard using the provided dataset. Summarize salaries by job role, state, and company size. Design an interactive dashboard highlighting key insights using charts and slicers. Exclude the map visualization if unsupported and replace it with an alternative chart. Apply custom formatting for a polished presentation.
 
-## Cleaning the Dataset:
-Use the worksheet on "Uncleaned DS Jobs" and transform tables:
-- Sal by Role
-- Sal by State
-- Sal by Size
+### Task Steps:
 
-## Creating Pivot Tables:
-Create a Pivot Table for each of the following:
-- Job roles and their average salaries
-- States and their total number of Data Science jobs
-- Company size and their highest average salaries
+1. Prepared the Dataset 
+- I used the "Uncleaned DS Jobs" worksheet and transformed tables: Sal by Role, Sal by State, and Sal by Size.  
 
-## Designing the Dashboard:
-- Create a dashboard that includes:
-- The state with the most Data Science jobs
-- The job role with the highest average salary
-- The company size that pays the highest
+2. Created Pivot Tables
+- Generated Pivot Tables for job roles, states, and company sizes to analyze salary distribution and job counts.  
 
-## Adding Visualizations:
-- Use appropriate charts for each report (e.g., bar charts, column charts, or pie charts)
+3. Designed the Dashboard
 
-## Adding Slicers for Interactivity:
-Insert slicers for:
-- Role type
-- Company size
-- State
+- I built a dashboard highlighting:  
+- The state with the most Data Science jobs.  
+- The job role with the highest average salary.  
+- The company size that pays the highest.  
 
-## Customizing the Dashboard:
-Apply custom design and color settings to make it visually appealing and presentable.
+4. Added Visualizations
+- Used bar charts, column charts, or pie charts to effectively represent key insights.  
+
+5. Inserted Slicers
+- I added slicers for Role Type, Company Size, and State to enhance interactivity.  
+
+6. Customized the Dashboard
+- Applied design and color settings to improve visual appeal and readability.  
 
 # Excel Ouput:
 Midterm Lab Task 3: [Creating Pivot Table and Dashboard](https://github.com/bangshiki/EDM-Portfolio/blob/0f1d7801f86916fff7b9faf17f5cccba65772017/Midterm%20Task%203/Excel/Midterm%20Task%203_done.xlsx)
 
-# Final output (screenshot of the final Dashboard):
+# Final output (screenshot of the Dashboard):
 <img src="images/DASHBOARD.png" alt="Alt Text" width="1000" height="700">
