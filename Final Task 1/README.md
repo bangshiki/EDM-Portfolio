@@ -14,9 +14,17 @@ The goal is to design and implement a simple relational database using MySQL sta
 <img src="files/SQL%20commands.png" alt="Alt Text" width="1000" height="800">
 
 # Table Structure Screenshots (Output 2)
+
+# Events Table
 <img src="files/events.png" alt="Alt Text" width="600" height="300">
+
+# Attendees Table
 <img src="files/attendees.png" alt="Alt Text" width="600" height="300">
+
+# Event Attendees Table
 <img src="files/event_attendees.png" alt="Alt Text" width="600" height="300">
+
+# Event Sponsor Table
 <img src="files/event_sponsors.png" alt="Alt Text" width="600" height="300">
 
 # ER Diagram (Output 3)
