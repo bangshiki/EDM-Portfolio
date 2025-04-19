@@ -6,7 +6,7 @@ The objective is to transform an er diagram representing student assignment subm
 ## Task Steps:
 - Create student table with username as primary key
 - Create assignment table with shortname, due_date, and optional url
-- Create submission table containing: student reference (username), assignment reference (shortname), version, submit date, and data *(uses a composite key and foreign keys to link to both student and assignment)*
+- Create submission table containing: student reference (username), assignment reference (shortname), version, submit date, and data
 - Define referential integrity constraints
 - Generate er diagram and export full sql structure using phpmyadmin or mysql workbench
 
