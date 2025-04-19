@@ -1,4 +1,4 @@
-# Finals Lab Task 2: MYSQL - assignment submission system
+# Finals Lab Task 2: Transforming ER into Relational Tables
 
 ## Task Description:
 The objective is to transform an er diagram representing student assignment submissions into a mysql based relational schema. This task demonstrates use of entities, relationships, primary keys, foreign keys, and composite keys to model a real-world system.
