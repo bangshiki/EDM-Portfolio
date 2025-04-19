@@ -12,7 +12,7 @@ This task focuses on altering tables and applying constraints using mysql. I cre
 # MySQL Query Statements
 <img src="files/SQLcommands.png" alt="Alt Text" width="1000" height="700">
 
-# Table Structure Screenshots
+# Table Structure
 # Product Table (without values)
 <img src="files/products_table.png" alt="Alt Text" width="600" height="350">
 
