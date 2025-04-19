@@ -10,10 +10,10 @@ The goal is to design and implement a simple relational database using MySQL sta
 - Create event_sponsors table with sponsor details linked to events.
 - Generate ER Diagram and export full SQL structure using phpMyAdmin or MySQL Workbench.
 
-# MySQL Query Statements (Output 1)
+# MySQL Query Statements
 <img src="files/SQL%20commands.png" alt="Alt Text" width="1000" height="800">
 
-# Table Structure Screenshots (Output 2)
+# Table Structure Screenshots
 
 # Events Table
 <img src="files/events.png" alt="Alt Text" width="600" height="300">
@@ -27,7 +27,7 @@ The goal is to design and implement a simple relational database using MySQL sta
 # Event Sponsor Table
 <img src="files/event_sponsors.png" alt="Alt Text" width="600" height="300">
 
-# ER Diagram (Output 3)
+# ER Diagram
 <img src="files/ER_Diagram.png" alt="Alt Text" width="800" height="400">
 
-# SQL Copy of the Database (Output 4) ->> [Event Management](https://github.com/bangshiki/EDM-Portfolio/blob/09a1318eff4aefbe153213bf757f113d13d1b18c/Final%20Task%201/files/Event_Management.sql)
+# SQL Copy of the Database ->> [Event Management](https://github.com/bangshiki/EDM-Portfolio/blob/09a1318eff4aefbe153213bf757f113d13d1b18c/Final%20Task%201/files/Event_Management.sql)
