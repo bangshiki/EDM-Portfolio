@@ -14,8 +14,13 @@ The objective is to transform an er diagram representing student assignment subm
 <img src="files/SQLcommands.png" alt="Alt Text" width="1000" height="700">
 
 # Table Structure Screenshots (Output 2)
+# Student Table
 <img src="files/student_table.png" alt="Alt Text" width="600" height="350">
+
+# Assignment Table
 <img src="files/assignment_table.png" alt="Alt Text" width="600" height="350">
+
+# Submission Table
 <img src="files/submission_table.png" alt="Alt Text" width="600" height="400">
 
 # ER Diagram (Output 3)
