@@ -18,3 +18,4 @@ Valerie L. Nocete is a video editor, first year college student currently pursui
 - Finals Lab Task 1: [MYSQL Basics](https://github.com/bangshiki/EDM-Portfolio/blob/bc9a0f80aae3edca042bb1f22aba2769b21873c5/Final%20Task%201/README.md)
 - Finals Lab Task 2: [Transforming ER into Relational Tables](https://github.com/bangshiki/EDM-Portfolio/blob/bc9a0f80aae3edca042bb1f22aba2769b21873c5/Finals%20Task%202/README.md)
 - Finals Lab Task 3: [Table Manipulation](https://github.com/bangshiki/EDM-Portfolio/blob/bc9a0f80aae3edca042bb1f22aba2769b21873c5/Finals%20Task%203/README.md)
+- Finals Lab Task 4: [Using SELECT Statements](https://github.com/bangshiki/EDM-Portfolio/blob/43c298dd264a83d6ac2ac9da2e040f4b56885436/Finals%20Task%204/README.md)
