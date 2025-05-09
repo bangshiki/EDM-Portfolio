@@ -1,4 +1,4 @@
-# Finals Lab Task 4: Using Stored PRocedures Views and Function
+# Finals Lab Task 5: Using Stored PRocedures Views and Function
 ## Task Description:
 This task involves working with the inventory database containing two tables: Products and Vendors. A series of Stored Procedures, Views, and Functions are created to extract and manipulate product and vendor information.
 
