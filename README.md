@@ -20,3 +20,4 @@ Valerie L. Nocete is a video editor, first year college student currently pursui
 - Finals Lab Task 3: [Table Manipulation](https://github.com/bangshiki/EDM-Portfolio/blob/bc9a0f80aae3edca042bb1f22aba2769b21873c5/Finals%20Task%203/README.md)
 - Finals Lab Task 4: [Using SELECT Statements](https://github.com/bangshiki/EDM-Portfolio/blob/43c298dd264a83d6ac2ac9da2e040f4b56885436/Finals%20Task%204/README.md)
 - Finals Lab Task 5: [Using Stored PRocedures Views and Function](https://github.com/bangshiki/EDM-Portfolio/blob/b9990c696eda77467c1e7aa29c84cda1f4272cff/Finals%20Task%205/README.md)
+- Finals Lab Task 6: [Mongo DB Practice](https://github.com/bangshiki/EDM-Portfolio/blob/4be90375aa6fc10cb90558a5c9a6edf249364994/Finals%20Task%206/README.md)
